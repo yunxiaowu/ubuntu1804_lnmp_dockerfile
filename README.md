@@ -10,7 +10,7 @@ php7.2+Nginx
 ## 构建镜像
 
 ```
-docker build -t yuanzhen:lnmp ./
+docker build -t yuanzhen869:lnmp ./
 ```
 
 ## 构建容器
